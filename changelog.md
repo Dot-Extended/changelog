@@ -1,6 +1,7 @@
 # changelog
 29-05-2019 :
 • Allow Pixel 3 live wallpapers to work in Ambient Display
+• Added QS Header Theme 
 • Added support for Pixel 3 live wallpapers on Ambient display
 • Updated Lawnchair
 • Improved Lockscreen visualizer
