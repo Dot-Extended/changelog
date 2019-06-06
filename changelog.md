@@ -1,25 +1,31 @@
-# changelog
-29-05-2019 :
-• Allow Pixel 3 live wallpapers to work in Ambient Display
-• Added QS Header Theme 
-• Added support for Pixel 3 live wallpapers on Ambient display
-• Updated Lawnchair
-• Improved Lockscreen visualizer
-• Improved QS detail view
-• Added more variants for Cover art filters
-• Added Accent Sweet Q Purple , Q green 
-• Improved Q Clock Style 
-• Fixed themeing of notification shelf dot
-• Exposed Q battery icon paths  
-• Fixed ambient music ticker double tap detection  
-• Added Q Always-On Display: Show media info in keyguard slice 
-• Added Compass tile  …
-• AddedScreenrecord tile
-• Added Battery charge warning 
-• Added big circle battery
-• Added Google Sound Search tile
-• Added Suspend Actions 
-• Added Less boring heads up option 
-• Added  One-hand UI Mode 
-• AddedTweak QS status icons in expand animation 
-• Added WPS implementation 
+#Dot-Extended v3.3 Changelog 06-06-2019:
+• Introduce RGB Accent Color (DotExtras->Interfaces)
+• Merged June security patches
+• Added Ummon-Hiyonat alarms alert(@techofficee offered)
+• Added an animation for charging
+• Added back Night Light
+• Added battery saving mode for location
+• Added recents panel clear all button tweaks 
+• Added Smart Pixels 
+• Added Screen off animation 
+• Updated Singapore's APNs 
+• Added option to disable scrolling cache 
+• Added Listanimation Views and Interpolator 
+• Added AOKP custom system animations 
+• Added Toast Animations 
+• Added Display battery temperature  
+• Fixed Power Button not working for any devices
+• Fixed auto enable on battery saver  with Aggressive Battery
+• Fixed auto-brightness first screen update.  
+• Added advanced location tile options  
+• Added Stock Recents/Overview icon pack support 
+• Disabled oreo recents category if pie recents selected 
+• Fixed notification channel info text color with Dark theme
+• Improved sunrise/sunset calculator with LiveDisplay
+• Added Statusbar brightness control
+• Fixed showing empty signal strength for TD-SCDMA
+• Updated Lawnchair to alpha-2081
+• Some more fixes/improvements 
+• Updated GPS blobs from LA.UM.7.6.r1-04300-89xx.0
+• Improved gps  
+• Some more fixes/improvements. 
